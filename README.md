@@ -1,6 +1,11 @@
 # NODE.JS API 
 ## A Simple Node.js ``` API ``` Usingn Express.js And MongoDB
 
+## version
+```json
+  "version": "1.0.0",
+```
+
 ## dependencies 
 
 | dependencies              | Version     |
