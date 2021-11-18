@@ -1,5 +1,5 @@
 # NODE.JS API 
-## A Simple Node.js ``` API ``` Usingn Express.js MongoDB
+## A Simple Node.js ``` API ``` Usingn Express.js And MongoDB
 
 ## dependencies 
 
