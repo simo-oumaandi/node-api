@@ -1,6 +1,6 @@
 {
   "name": "node-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node.js Api using expres.js and ongoDB",
   "main": "app.js",
   "scripts": {
